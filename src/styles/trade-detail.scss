@@ -1,0 +1,112 @@
+.trade-details-data-table-container {
+  width: 1540px;
+  margin: 50px auto 0px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  .trade-detail-table-view {
+    // width: 96%;
+    height: 400px;
+    // overflow-y: auto;
+  }
+}
+
+.hideRightSeparator .MuiDataGrid-columnSeparator--sideRight {
+  display: none !important;
+}
+
+.data-grid-footer {
+  display: flex;
+  flex-direction: column;
+  margin: 100px auto 20px auto;
+  .data-grid-footer-table-head-row {
+    display: flex;
+    font-size: 12px;
+    .table-head-spacing {
+      width: 120px;
+    }
+    .table-head-cell {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 140px;
+      color: #194174;
+      font-weight: 900;
+      box-sizing: border-box;
+      border-left: #f3dea6 2px solid;
+    }
+    div:last-child {
+      box-sizing: border-box;
+      border-right: #f3dea6 2px solid;
+    }
+    .table-head-cell.adv-cell {
+      width: 80px;
+    }
+    .table-head-cell.spread-cell {
+      width: 90px;
+    }
+    .table-head-cell.moo-cell {
+      width: 80px;
+    }
+    .table-head-cell.moc-cell {
+      width: 80px;
+    }
+    .table-head-cell.config-manager-cell {
+      width: 250px;
+    }
+    .table-head-cell.performance-estimate-cell {
+      width: 150px;
+    }
+  }
+  .data-grid-footer-table-body-row {
+    display: flex;
+    font-size: 0.875rem;
+    color: #707070;
+    .footer-title {
+      width: 120px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 15px;
+      color: #194174;
+      font-weight: bolder;
+      border-right: 2px solid #f3dea6;
+      height: 40px;
+    }
+    .footer-data {
+      display: flex;
+      .table-cell {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 140px;
+      }
+      .table-cell.adv-cell {
+        width: 80px;
+      }
+      .table-cell.spread-cell {
+        width: 90px;
+      }
+      .table-cell.moo-cell {
+        width: 80px;
+      }
+      .table-cell.moc-cell {
+        width: 80px;
+      }
+      .table-cell.config-manager-cell {
+        width: 250px;
+      }
+      .table-cell.performance-estimate-cell {
+        width: 150px;
+      }
+    }
+  }
+}
+
+.MuiDataGrid-main {
+  overflow: inherit !important;
+}
+
+.MuiDataGrid-virtualScroller {
+  overflow: scroll !important;
+}

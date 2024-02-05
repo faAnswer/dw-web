@@ -1,0 +1,854 @@
+{
+  "currencyFX": [
+    {
+      "_id": "CHF",
+      "fx": 0.984300408
+    },
+    {
+      "_id": "CZK",
+      "fx": 20.7891564
+    },
+    {
+      "_id": "DKK",
+      "fx": 6.09588832
+    },
+    {
+      "_id": "EUR",
+      "fx": 0.81960495
+    },
+    {
+      "_id": "GBP",
+      "fx": 0.647962159
+    },
+    {
+      "_id": "HUF",
+      "fx": 237.473284
+    },
+    {
+      "_id": "ISK",
+      "fx": 128.9742
+    },
+    {
+      "_id": "LTL",
+      "fx": 2.82990302
+    },
+    {
+      "_id": "LVL",
+      "fx": 0.570499472
+    },
+    {
+      "_id": "NOK",
+      "fx": 6.10139295
+    },
+    {
+      "_id": "PLN",
+      "fx": 3.44739618
+    },
+    {
+      "_id": "RON",
+      "fx": 3.71979526
+    },
+    {
+      "_id": "RUB",
+      "fx": 32.7428702
+    },
+    {
+      "_id": "SEK",
+      "fx": 7.02390234
+    },
+    {
+      "_id": "UAH",
+      "fx": 8.09271009
+    },
+    {
+      "_id": "CNY",
+      "fx": 6.9325
+    },
+    {
+      "_id": "HKD",
+      "fx": 7.8491
+    },
+    {
+      "_id": "IDR",
+      "fx": 15245
+    },
+    {
+      "_id": "INR",
+      "fx": 55.6606924
+    },
+    {
+      "_id": "JPY",
+      "fx": 136.13
+    },
+    {
+      "_id": "KRW",
+      "fx": 1321.76
+    },
+    {
+      "_id": "LKR",
+      "fx": 133.85089
+    },
+    {
+      "_id": "MYR",
+      "fx": 4.485
+    },
+    {
+      "_id": "NPR",
+      "fx": 88.8178346
+    },
+    {
+      "_id": "PHP",
+      "fx": 55.32
+    },
+    {
+      "_id": "PKR",
+      "fx": 94.3307235
+    },
+    {
+      "_id": "SGD",
+      "fx": 1.3484
+    },
+    {
+      "_id": "THB",
+      "fx": 31.7672099
+    },
+    {
+      "_id": "TRY",
+      "fx": 1.81750108
+    },
+    {
+      "_id": "TWD",
+      "fx": 30.708
+    },
+    {
+      "_id": "VND",
+      "fx": 20833.3333
+    },
+    {
+      "_id": "BBD",
+      "fx": 1.9978
+    },
+    {
+      "_id": "CAD",
+      "fx": 1.01840046
+    },
+    {
+      "_id": "JMD",
+      "fx": 88.5190759
+    },
+    {
+      "_id": "MXN",
+      "fx": 3.4296688
+    },
+    {
+      "_id": "PAB",
+      "fx": 0.99864
+    },
+    {
+      "_id": "USD",
+      "fx": 1
+    },
+    {
+      "_id": "ARS",
+      "fx": 4.54099611
+    },
+    {
+      "_id": "BOB",
+      "fx": 7.01001731
+    },
+    {
+      "_id": "BRL",
+      "fx": 2.03729887
+    },
+    {
+      "_id": "CLP",
+      "fx": 492.853622
+    },
+    {
+      "_id": "COP",
+      "fx": 1788.90877
+    },
+    {
+      "_id": "PEN",
+      "fx": 2.63449769
+    },
+    {
+      "_id": "UYU",
+      "fx": 21.8498044
+    },
+    {
+      "_id": "VEF",
+      "fx": 4.29459182
+    },
+    {
+      "_id": "XCD",
+      "fx": 2.7
+    },
+    {
+      "_id": "AED",
+      "fx": 3.67290571
+    },
+    {
+      "_id": "BHD",
+      "fx": 0.376999985
+    },
+    {
+      "_id": "ILS",
+      "fx": 3.97399418
+    },
+    {
+      "_id": "JOD",
+      "fx": 0.707699058
+    },
+    {
+      "_id": "KWD",
+      "fx": 0.281879914
+    },
+    {
+      "_id": "LBP",
+      "fx": 1506.0241
+    },
+    {
+      "_id": "OMR",
+      "fx": 0.38499001
+    },
+    {
+      "_id": "QAR",
+      "fx": 3.64059997
+    },
+    {
+      "_id": "SAR",
+      "fx": 3.75020626
+    },
+    {
+      "_id": "EGP",
+      "fx": 6.06299451
+    },
+    {
+      "_id": "MAD",
+      "fx": 9.01047017
+    },
+    {
+      "_id": "ZAR",
+      "fx": 8.31469456
+    },
+    {
+      "_id": "XAF",
+      "fx": 537.40537
+    },
+    {
+      "_id": "NAD",
+      "fx": 8.31469456
+    },
+    {
+      "_id": "KES",
+      "fx": 83.948959
+    },
+    {
+      "_id": "AAA",
+      "fx": 0.983767831
+    },
+    {
+      "_id": "88",
+      "fx": 1.26326427
+    },
+    {
+      "_id": "AUD",
+      "fx": 1.4859
+    }
+  ],
+  "additionalInputParams": [
+    {
+      "Parameter": "AggressiveCappedByFarSize",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "Whether to cap the delta Qty by"
+    },
+    {
+      "Parameter": "AggressiveFVOption",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "0",
+          "label": "NOT_CROSS_IF_FAR_IS_MORE_AGGR_THAN_FV"
+        },
+        {
+          "value": "1",
+          "label": "NOT_CROSS_IF_NOT_FALLING_BEHIND"
+        },
+        {
+          "value": "2",
+          "label": "NOT_CROSS_IF_FAR_IS_MORE_AGGR_THAN_FV"
+        }
+      ],
+      "Description": "0: If far price is further than FV, then don't cross; 1: If cumulative qty is more than behindFinal, then don't cross; default is 0; 2: cross regardless of FV"
+    },
+    {
+      "Parameter": "AggressiveTargetFactor",
+      "Type": "Float",
+      "Description": "multiplier for target cross qty"
+    },
+    {
+      "Parameter": "AmAuctionPlacementTime",
+      "Type": "String",
+      "Description": "Time Am auction orders are placed"
+    },
+    {
+      "Parameter": "ArrivalScalerCap",
+      "Type": "Float",
+      "Description": "cap on ArrivalScaler"
+    },
+    {
+      "Parameter": "ArrivalScalerFloor",
+      "Type": "Float",
+      "Description": "floor on ArrivalScaler"
+    },
+    {
+      "Parameter": "ArrivalScalerRescheduleThreshold",
+      "Type": "Float",
+      "Description": "% change in ArrivalScaler (since last Schedule) required to trigger a reschedule (from ?Arrival Scheduler"
+    },
+    {
+      "Parameter": "AutoIWouldDark",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "If Iwould, automatically to go dark pool"
+    },
+    {
+      "Parameter": "BandCutoff",
+      "Type": "Float",
+      "Description": "Used to definite interval for price movement. If price range is larger than this, then we know that either bid or ask or both has moved in this interval."
+    },
+    {
+      "Parameter": "CloseAuctionStartSecs",
+      "Type": "Float",
+      "Description": "Offset (in seconds) to subtract from Close Auction end time to begin placing orders"
+    },
+    {
+      "Parameter": "CloseAuctionWeight",
+      "Type": "Float",
+      "Description": "How much % of close auction quantity we recognize. Eg: 90 means we consider 900 volume for 1000 IEV."
+    },
+    {
+      "Parameter": "ConvergeBehindOnAmClose",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "if finishTime later than sessionEndTime, finish at sessionEndTime. This keeps the traded quantity closer to the target quanity as of sessionEndTime."
+    },
+    {
+      "Parameter": "ConvergeSecs",
+      "Type": "Float",
+      "Description": "Controls the time the order starts to converge"
+    },
+    {
+      "Parameter": "CrossCeilingModifier",
+      "Type": "Float",
+      "Description": "Adjusts the maximum quantity allowed for crossing."
+    },
+    {
+      "Parameter": "DarkLimitPricePoints",
+      "Type": "String",
+      "Description": "Defines price range and intervals for dark pool prices"
+    },
+    {
+      "Parameter": "DarkLimitPricePointsSS",
+      "Type": "String",
+      "Description": "Defines price range and intervals for dark pool prices for short sell orders"
+    },
+    {
+      "Parameter": "EffectiveTime",
+      "Type": "UTC Time",
+      "Sample": "HH:mm:ss",
+      "Description": "Provided by client, = CoreEffectiveTime if provided"
+    },
+    {
+      "Parameter": "EndParticipationRate",
+      "Type": "Float",
+      "Description": "participation rate we aim to have the schedule finish at, before scaling"
+    },
+    {
+      "Parameter": "ExcludeDarkFills",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "Whether to exclude vols from Dark venue in interval vol calculation"
+    },
+    {
+      "Parameter": "ExcludePTSFills",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "Whether to excludevols from PTS venues in interval vol calculation"
+    },
+    {
+      "Parameter": "ExecStyle",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "PASS",
+          "label": "PASSIVE"
+        },
+        {
+          "value": "NORM",
+          "label": "NORMAL"
+        },
+        {
+          "value": "AGGR",
+          "label": "AGGRESSIVE"
+        }
+      ],
+      "Description": "Affects construction of Style Factor."
+    },
+    {
+      "Parameter": "ExpireTime",
+      "Type": "UTC Time",
+      "Sample": "HH:mm:ss",
+      "Description": "Client input as to when order should stop"
+    },
+    {
+      "Parameter": "FinishUpSecForMoc",
+      "Type": "Float",
+      "Description": "Controls the time for finish up logic"
+    },
+    {
+      "Parameter": "FinishUpSecsLong",
+      "Type": "Float",
+      "Description": "Controlls finished up start time for long order"
+    },
+    {
+      "Parameter": "FinishUpSecsLongSS",
+      "Type": "Float",
+      "Description": "Offset to control finished up start time for long duration short sell"
+    },
+    {
+      "Parameter": "FinishUpSecsShort",
+      "Type": "Float",
+      "Description": "Controlls finished up start time for short order"
+    },
+    {
+      "Parameter": "FinishUpSecsShortSS",
+      "Type": "Float",
+      "Description": "Offset to control finished up start time for short duration short sell"
+    },
+    {
+      "Parameter": "ForceOneLotOnStart",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "0",
+          "label": "DISABLE"
+        },
+        {
+          "value": "1",
+          "label": "FORCE"
+        }
+      ],
+      "Description": "0: disable; 1:Force algo to put 1 lot at open auction"
+    },
+    {
+      "Parameter": "FVEnable",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "This feature is 1 when Fair Value is enabled, and 0 otherwise."
+    },
+    {
+      "Parameter": "FVOffsetBp",
+      "Type": "Float",
+      "Description": "To adjust the raw FV in bps, both negative (to make the FV more passive) and positive (to the aggressive side) offsets are applicable. Note that the FVOffsetBp setting would override FVSpreadMultiplier"
+    },
+    {
+      "Parameter": "FVOffsetCeiling",
+      "Type": "Float",
+      "Description": "The maximum value for FVOffsetBP (configurable by client)"
+    },
+    {
+      "Parameter": "FVOffsetFloor",
+      "Type": "Float",
+      "Description": "The minimum value for FVOffsetBP (configurable by client)"
+    },
+    {
+      "Parameter": "FVSpreadMultiplier",
+      "Type": "Float",
+      "Description": "To adjust the raw FV (i.e. 5-minute rolling VWAP) to the aggressive side by the multiple of the average spread"
+    },
+    {
+      "Parameter": "InterceptCoefficient",
+      "Type": "Float",
+      "Description": "Used to scale the MarketView parameter such that for no change in price, adjust"
+    },
+    {
+      "Parameter": "IWouldDarkPegTo",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "1",
+          "label": "LAST"
+        },
+        {
+          "value": "2",
+          "label": "BID"
+        },
+        {
+          "value": "3",
+          "label": "ASK"
+        },
+        {
+          "value": "4",
+          "label": "MID"
+        },
+        {
+          "value": "5",
+          "label": "MAM"
+        },
+        {
+          "value": "6",
+          "label": "MBM"
+        },
+        {
+          "value": "7",
+          "label": "SSP"
+        },
+        {
+          "value": " ",
+          "label": "NEAR"
+        }
+      ],
+      "Description": "if we have IWouldDark, price to request to exchange. Class 0 reresent null"
+    },
+    {
+      "Parameter": "IWouldPassiveDefaultLot",
+      "Type": "Int",
+      "Description": "Number of lots to post for IWould Passive if we don't look at the�historical�near queue�size"
+    },
+    {
+      "Parameter": "IWouldPassiveEnabled",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "If On, we will run the IWould passive logic"
+    },
+    {
+      "Parameter": "IWouldPassiveMaxPctFromQueueSize",
+      "Type": "Int",
+      "Description": "A limit on how much we want to post for IWould passive according to the historical near touch queue size. 0 means use IWouldPassiveDefaultLot, -1 means not bound by near queue size"
+    },
+    {
+      "Parameter": "IWouldPassivePct",
+      "Type": "Float",
+      "Description": "The percentage of parent quantity that we want to post as IWould passive at any time."
+    },
+    {
+      "Parameter": "KeepMaxPctVol",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "When volume limit is reset, will remember % of cum qty. helps to keep schdule continuous. In case this parameter is true, order should not reset to cumQty."
+    },
+    {
+      "Parameter": "LastScheduleSecsLongDuration",
+      "Type": "Int",
+      "Description": "Determines the last period for continous session"
+    },
+    {
+      "Parameter": "LastScheduleSecsShortDuration",
+      "Type": "Int",
+      "Description": "Determines the last period for continous session"
+    },
+    {
+      "Parameter": "MarketView",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "MOME",
+          "label": "MOMENTUM"
+        },
+        {
+          "value": "NEUT",
+          "label": "NEUTRAL"
+        },
+        {
+          "value": "REVE",
+          "label": "REVERSION"
+        }
+      ],
+      "Description": "Client's market view, NEUT, REVE or MOME"
+    },
+    {
+      "Parameter": "MaxAheadBand",
+      "Type": "Float",
+      "Description": "The maximum AheadBand in seconds allowed."
+    },
+    {
+      "Parameter": "MaxOpenQty",
+      "Type": "Float",
+      "Description": "Maximum Open Quantity allowed"
+    },
+    {
+      "Parameter": "MaxPercentVolRoundLotsAhead",
+      "Type": "Float",
+      "Description": "Adjusts AheadVolCap. If this value is small, the order can have larger AheadVolCap. Larger cap allows for larger AheadFinal or AheadBand."
+    },
+    {
+      "Parameter": "MaxPov",
+      "Type": "Float",
+      "Description": "Max POV of the volume curve to participate; null means no max pov"
+    },
+    {
+      "Parameter": "MinAheadBand",
+      "Type": "Float",
+      "Description": "The minimum AheadBand in seconds allowed."
+    },
+    {
+      "Parameter": "MinPov",
+      "Type": "Float",
+      "Description": "Minimum POV"
+    },
+    {
+      "Parameter": "MOCParticipation",
+      "Type": "Float",
+      "Description": "Market on close participation, when -1, DATS will decide to use volume profile"
+    },
+    {
+      "Parameter": "MOOParticipation",
+      "Type": "Float",
+      "Description": "target % to take part in opening auction. Will affect the schedule. -1: follow historical curve for VWAP"
+    },
+    {
+      "Parameter": "NearDiscountRate",
+      "Type": "Float",
+      "Description": "Adjusts aheadTargetNear. If larger, allows ahead target for nearSize to be larger"
+    },
+    {
+      "Parameter": "NearFillTimeCoefficient",
+      "Type": "Float",
+      "Description": "Adjusts Ahead and BehindSeconds. If this is set larger, Ahead and BehindSeconds will increase."
+    },
+    {
+      "Parameter": "NearFillTimeExponent",
+      "Type": "Float",
+      "Description": "Adjusts Ahead and BehindSeconds. If this is set larger, Ahead and BehindSeconds will increase."
+    },
+    {
+      "Parameter": "PassiveDepth",
+      "Type": "Float",
+      "Description": "Number of bps from limit price to post passive orders. Larger number means more passive. Affects passive placer"
+    },
+    {
+      "Parameter": "PmAuctionPlacementTime",
+      "Type": "String",
+      "Description": "Determines when order placement for pm auction begins. Later time means market sees our order later, but also means higher risk for order entering."
+    },
+    {
+      "Parameter": "QtyChangeThreshold",
+      "Type": "Float",
+      "Description": "% change in target quantity threshold for each depth in passive posting. Orders only change within threshold. Small number means less likely for orders to change, thus preserving queue priority."
+    },
+    {
+      "Parameter": "RangeSpreadCoefficient",
+      "Type": "Float",
+      "Description": "Multiple of the range spread factor. Used to calculate other fields such as AheadSecs. Larger number means larger ahead secs"
+    },
+    {
+      "Parameter": "RangeSpreadExponent",
+      "Type": "Float",
+      "Description": "Adjusts other scheduler fields. A larger number means larger AheadSeconds"
+    },
+    {
+      "Parameter": "RelativeLimitStartTime",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "0",
+          "label": "PreviousClose"
+        },
+        {
+          "value": "1",
+          "label": "Arrival"
+        },
+        {
+          "value": "2",
+          "label": "Open"
+        }
+      ],
+      "Description": "Start time from which relative limit reference is taken"
+    },
+    {
+      "Parameter": "ScaledRateCap",
+      "Type": "Float",
+      "Description": "Cap which we do not exceed due to the Scaler. Note this number can be exceeded if Must Finish is on and there's not enough time to finish otherwise."
+    },
+    {
+      "Parameter": "SlopeCoefficient",
+      "Type": "Float",
+      "Description": "Used to scale the MarketView parameter to keep results within a grid of -1 to +1"
+    },
+    {
+      "Parameter": "StartParticipationRate",
+      "Type": "Float",
+      "Description": "participation rate we aim to have the schedule start at, before scaling"
+    },
+    {
+      "Parameter": "StyleFactor",
+      "Type": "Float",
+      "Description": "AGGR:0.7, NORM:1, PASS:1.3. more passive means wider ahead and behindSecs (bands). More aggressive means narrower bands (follow schedule more closely)"
+    },
+    {
+      "Parameter": "TargetBehindPercent",
+      "Type": "Float",
+      "Description": "Factor used to adjust behind target"
+    },
+    {
+      "Parameter": "TargetRoundLotsAhead",
+      "Type": "Float",
+      "Description": "Adjusts the AheadTargetQty. if this is set larger, then the floor for AheadTargetQty will be higher."
+    },
+    {
+      "Parameter": "TradeIntervalCoefficient",
+      "Type": "Float",
+      "Description": "Adjusts Ahead and BehindSeconds. If this is set larger, Ahead and BehindSeconds will increase."
+    },
+    {
+      "Parameter": "TradeIntervalExponent",
+      "Type": "Float",
+      "Description": "Adjusts the Ahead and BehindSeconds. If this is set larger, Ahead and BehindSeconds will increase."
+    },
+    {
+      "Parameter": "UseFullDayVolume",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "Use IntervalVolume from the morning regardless of order accept time and LimitPx. This parameter won't work for POV/DPOV"
+    },
+    {
+      "Parameter": "UseNewPassivePlacer",
+      "Type": "Categorical",
+      "Options": [
+        {
+          "value": "Y",
+          "label": "Y"
+        },
+        {
+          "value": "N",
+          "label": "N"
+        }
+      ],
+      "Description": "To enable new PassivePlacer which enable more than 3 depths"
+    }
+  ],
+  "inputList": [
+    {
+      "OrdType": [
+        "MARKET",
+        "LIMIT"
+      ]
+    },
+    {
+      "Side": [
+        "BUY",
+        "SELL"
+      ]
+    },
+    {
+      "Strategy": [
+        "VWAP",
+        "TWAP",
+        "Arrival",
+        "InverseIS",
+        "POV",
+        "DynamicPOV"
+      ]
+    },
+    {
+      "CustomerId": [
+        "Dumpty",
+        "DAM",
+        "BGI",
+        "Baa",
+        "DOG",
+        "BDI"
+      ]
+    },
+    {
+      "additionalClientInput": [
+        "Text",
+        "SpectrumUrgency"
+      ]
+    }
+  ]
+}

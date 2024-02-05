@@ -1,0 +1,108 @@
+[
+  {
+    "Symbol":"066570.KS_MOCK_A",
+    "Result":{
+        "Status":"OK",
+        "BeforeOptimizedPerformance":99,
+        "OptimizedPerformance":99,
+        "OptimizedParameters": {
+          "AheadSeconds": 999,
+          "ArrivalScalerCap": 99,
+          "IWouldDarkPegTo": 99,
+          "IWouldPassiveDefaultLot": 99,
+          "MaxOpenQty": 99,
+          "PassiveDepth": 99,
+          "QtyChangeThreshold": 99,
+          "TargetBehindPercent": 99,
+          "UseFullDayVolume": 99,
+          "UseNewPassivePlacer": 99
+        },
+        "ConfigManager": {
+          "FVEnable": "Y",
+          "MarketView": "MOME",
+          "FVEnable2": "Y",
+          "FVEnable123": "Y",
+          "FVEnable3": "Y",
+          "IWouldDarkPegTo": 99,
+          "IWouldPassiveDefaultLot": 99,
+          "MaxOpenQty": 99,
+          "PassiveDepth": 99,
+          "QtyChangeThreshold": 99,
+          "TargetBehindPercent": 99,
+          "UseFullDayVolume": 99,
+          "UseNewPassivePlacer": 99
+        }
+    }
+  },
+  {
+    "Symbol":"0700.HK_MOCK_A",
+    "Result":{
+        "Status":"OK",
+        "BeforeOptimizedPerformance":22,
+        "OptimizedPerformance":12,
+        "OptimizedParameters": {
+          "AheadSeconds": 120,
+          "ArrivalScalerCap": 30,
+          "IWouldDarkPegTo": 30,
+          "IWouldPassiveDefaultLot": 30,
+          "MaxOpenQty": 30,
+          "PassiveDepth": 30,
+          "QtyChangeThreshold": 30,
+          "TargetBehindPercent": 30,
+          "UseFullDayVolume": 30,
+          "UseNewPassivePlacer": 30
+        },
+        "ConfigManager": {
+          "FVEnable": "N",
+          "MarketView": "MOME",
+          "IWouldDarkPegTo": 30,
+          "IWouldPassiveDefaultLot": 30,
+          "MaxOpenQty": 30,
+          "PassiveDepth": 30,
+          "QtyChangeThreshold": 30,
+          "TargetBehindPercent": 30,
+          "UseFullDayVolume": 30,
+          "UseNewPassivePlacer": 30
+        }
+    }
+  },
+  {
+    "Symbol":"2330.TW_MOCK_A",
+    "Result":{
+        "Status":"OK",
+        "BeforeOptimizedPerformance":22,
+        "OptimizedPerformance":12,
+        "OptimizedParameters": {
+          "AheadSeconds": 120,
+          "ArrivalScalerCap": 30,
+          "IWouldDarkPegTo": 30,
+          "IWouldPassiveDefaultLot": 30,
+          "MaxOpenQty": 30,
+          "PassiveDepth": 30,
+          "QtyChangeThreshold": 30,
+          "TargetBehindPercent": 30,
+          "UseFullDayVolume": 30,
+          "UseNewPassivePlacer": 30
+        },
+        "ConfigManager": {
+          "FVEnable": "N",
+          "MarketView": "MOME",
+          "IWouldDarkPegTo": 30,
+          "IWouldPassiveDefaultLot": 30,
+          "MaxOpenQty": 30,
+          "PassiveDepth": 30,
+          "QtyChangeThreshold": 30,
+          "TargetBehindPercent": 30,
+          "UseFullDayVolume": 30,
+          "UseNewPassivePlacer": 30
+        }
+    }
+  },
+  {
+    "Symbol":"6758.T",
+    "Result":{
+        "Status":"ERROR",
+        "Message":"Cannot support it"
+    }
+  }
+]

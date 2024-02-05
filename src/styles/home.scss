@@ -1,0 +1,890 @@
+.action-bar-wrapper {
+  // margin-top: 40px;
+  margin: 20px auto;
+  .action-bar {
+    width: 1600px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    > div {
+      cursor: pointer;
+      margin: 0 35px;
+      > div:nth-child(1) {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70px;
+        height: 70px;
+        border: 1px solid #194174;
+        border-radius: 80px;
+      }
+      div.active {
+        background-color: #194174;
+        // transition: 0.3s;
+      }
+      > div:nth-child(2) {
+        color: #194174;
+        margin-top: 10px;
+        text-align: center;
+      }
+    }
+  }
+}
+
+.save-layout-dialog-container {
+  width: 458px;
+  height: 280px;
+  position: absolute;
+  top: 0px;
+  right: -40px;
+  left: -40px;
+  > * {
+    height: 100%;
+  }
+  .close-button-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #194174;
+    padding: 10px;
+  }
+  .radio-button-container {
+    padding: 10px 40px;
+  }
+  .button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    > * {
+      height: 70px;
+      width: 180px;
+      border-radius: 80px;
+    }
+  }
+}
+
+.save-profile-dialog-container {
+  .radio-button-container {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    padding: 10px 40px;
+  }
+}
+
+.export-file-dialog-container {
+  width: 458px;
+  height: 320px;
+  position: absolute;
+  top: 0px;
+  right: -40px;
+  left: -40px;
+  > * {
+    height: 100%;
+  }
+  .close-button-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #194174;
+    padding: 10px;
+  }
+  .radio-button-container {
+    padding: 10px 40px;
+  }
+  .button-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    > * {
+      height: 70px;
+      width: 180px;
+      border-radius: 80px;
+    }
+  }
+}
+
+.logo-bar {
+  background-color: #fff;
+  min-width: 1600px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  > div {
+    // font-family: bold;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 1200px;
+    margin: 0 130px;
+  }
+  .logo {
+    width: 80px;
+    margin-right: 40px;
+    height: 44px;
+  }
+  .title {
+    width: 250px;
+    height: 44px;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: #194174;
+    font-weight: 650;
+    font-size: 20px;
+  }
+}
+
+.pdf-logo-bar {
+  background-color: #fff;
+  min-width: 1600px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  > div {
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    margin-right: 130px;
+    margin-left: 40px;
+    color: #194174;
+    font-size: 30px;
+    font-weight: 900;
+  }
+}
+
+.app-bar {
+  width: 100%;
+  height: 140px;
+  position: relative;
+  // margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .profile-container {
+    position: absolute;
+    right: 20px;
+    .avatar-wrapper {
+      display: flex;
+      align-items: center;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #d8a500;
+      width: 300px;
+      .avatar {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        border-radius: 50px;
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+      }
+      .username {
+        margin-left: 10px;
+      }
+    }
+  }
+  .profile-name {
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+    align-items: flex-end;
+  }
+  .restore-btn {
+    width: 50px;
+  }
+  .trade-details-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.input-section-wrapper {
+  position: relative;
+  margin: 0px 35px;
+  width: 1530px;
+  border: 1px solid #d8a500;
+  border-radius: 15px;
+  box-sizing: border-box;
+  .input-section {
+    display: flex;
+    justify-content: space-evenly;
+    position: static;
+    .upload-history-box {
+      position: absolute;
+      top: -5px;
+      left: -20px;
+      right: -20px;
+      bottom: -20px;
+      > * {
+        width: 100%;
+        height: 100%;
+      }
+      .upload-history-container {
+        height: 250px;
+        padding: 10px;
+        > :nth-child(1) {
+          display: flex;
+          justify-content: flex-end;
+          color: #194174;
+        }
+        > :nth-child(2) {
+          display: flex;
+          justify-content: space-between;
+          color: #194174;
+          font-size: 20px;
+          font-weight: bold;
+          border-bottom: 4px solid #f4e0ad;
+          height: 40px;
+          padding-left: 20px;
+          > :nth-child(1),
+          > :nth-child(2) {
+            margin-right: 100px;
+            width: 300px;
+          }
+          > :nth-child(3) {
+            width: 350px;
+            margin-right: 0px;
+          }
+        }
+
+        .history-list-container {
+          overflow: overlay;
+          height: 160px;
+          .history-list-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: #707070;
+            font-size: 20px;
+            height: 40px;
+            margin-top: 20px;
+            padding-left: 20px;
+            > * {
+              margin-right: 200px;
+              width: 200px;
+            }
+          }
+          .button-container {
+            display: flex;
+            justify-content: flex-end;
+            width: 350px;
+            margin-right: 0px;
+            .button-wrapper {
+              margin-right: 30px;
+              border: 1px solid #70707080;
+              border-radius: 32px;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              color: #707070;
+              width: 130px;
+              height: 24px;
+              > * {
+                width: 100%;
+                height: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .input-form-wrapper {
+      padding: 50px 0px;
+      width: 200px;
+      height: 100%;
+      .button-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        > * {
+          width: 250px;
+          height: 40px;
+          margin-top: 25px;
+          margin-right: 20px;
+        }
+      }
+    }
+
+    .optimized-param-section {
+      width: 520px;
+      border-left: 1px solid #d8a500;
+      border-right: 1px solid #d8a500;
+      .optimized-params-form-wrapper {
+        display: flex;
+        width: 100%;
+        .info-text {
+          padding-bottom: 10px;
+          width: 100%;
+          text-align: center;
+          color: #8b8b8b;
+          font-weight: bold;
+          font-size: 14px;
+        }
+        .full-width {
+          width: 100%;
+          padding: 20px 20px;
+          .optimized-param-input-field-form {
+            display: flex;
+            width: 100%;
+            .input-column-1 {
+              width: 100%;
+              margin-right: 50px;
+            }
+            .input-column-2 {
+              width: 100%;
+              .addition-param-btn {
+                height: 50px;
+                margin-top: 10px;
+                margin-bottom: 5px;
+              }
+              .client-config-btn {
+                height: 50px;
+                margin-top: 10px;
+                margin-top: 1px;
+              }
+            }
+          }
+        }
+        .full-width.inactive {
+          background-color: lightgrey;
+          transition: 0.3s;
+        }
+      }
+    }
+
+    .single-stock-download-excel-section {
+      width: 250px;
+      .single-stock-download-excel-wrapper {
+        cursor: pointer;
+        margin-top: 30px;
+        width: 100%;
+        height: 104px;
+        border: 1px solid #b4c2d2;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #70707080;
+        > div {
+          margin-right: 10px;
+        }
+        > :nth-child(2) {
+          text-align: center;
+        }
+      }
+      .button-container {
+        display: flex;
+        width: 100%;
+        margin-top: 20px;
+        .button-wrapper {
+          width: 115px;
+          height: 40px;
+          padding-left: 20px;
+        }
+      }
+    }
+
+    .transfer-excel-file-section {
+      display: flex;
+      justify-content: space-between;
+      width: 500px;
+      .upload-csv-section {
+        .upload-csv-wrapper {
+          cursor: pointer;
+          margin-top: 30px;
+          width: 480px;
+          height: 104px;
+          border: 1px solid #b4c2d2;
+          border-radius: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .upload-csv-result-container {
+          margin-top: 25px;
+          display: flex;
+          width: 569px;
+          // flex-wrap: wrap;
+          align-items: center;
+          color: #ffffff;
+          // height: 80px;
+          overflow-x: auto;
+          .inner-container > div {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: fit-content;
+            background-color: #d8a500;
+            font-size: 20px;
+            // height: 20px;
+            margin-right: 10px;
+            border-radius: 25px;
+            padding: 10px;
+            margin-right: 20px;
+            margin-bottom: 10px;
+            .fileName-wrapper {
+              cursor: pointer;
+              user-select: none;
+              padding: 0px 6px;
+            }
+
+            > * {
+              color: #ffffff;
+            }
+          }
+        }
+      }
+      .download-excel-section {
+        // margin-left: 25px;
+        .download-excel-wrapper {
+          cursor: pointer;
+          // margin-top: 43px;
+          width: 250px;
+          height: 104px;
+          border: 1px solid #b4c2d2;
+          border-radius: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #70707080;
+          font-size: 20px;
+          > div {
+            margin-right: 10px;
+          }
+          > :nth-child(2) {
+            text-align: center;
+          }
+        }
+
+        .button-container {
+          margin-top: 20px;
+          display: flex;
+          justify-content: flex-end;
+          align-items: center;
+          height: auto;
+          .button-wrapper {
+            width: 260px;
+            height: 40px;
+            border: 0px solid #70707080;
+            border-radius: 32px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 20px;
+            > * {
+              width: 100%;
+              height: 100%;
+              border-radius: 32px;
+            }
+          }
+        }
+      }
+    }
+
+    .portfolio-transfer-excel-file-section {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      .portfolio-upload-csv-section {
+        width: 1200px;
+        margin-left: 50px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        .portfolio-upload-csv-wrapper {
+          width: 100%;
+          cursor: pointer;
+          // margin-top: 43px;
+          height: 104px;
+          border: 1px solid #b4c2d2;
+          border-radius: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+        .portfolio-upload-csv-result-container {
+          margin-top: 25px;
+          display: flex;
+          width: 100%;
+          // flex-wrap: wrap;
+          align-items: center;
+          color: #ffffff;
+          // height: 80px;
+          overflow-x: auto;
+          .inner-container > div {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: fit-content;
+            background-color: #d8a500;
+            font-size: 20px;
+            // height: 20px;
+            margin-right: 10px;
+            border-radius: 25px;
+            padding: 10px;
+            margin-right: 20px;
+            margin-bottom: 10px;
+            .fileName-wrapper {
+              cursor: pointer;
+              user-select: none;
+              padding: 0px 6px;
+            }
+
+            > * {
+              color: #ffffff;
+            }
+          }
+        }
+      }
+      .portfolio-download-excel-section {
+        width: 270px;
+        margin-right: 40px;
+        margin-left: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        .portfolio-download-excel-wrapper {
+          cursor: pointer;
+          // margin-top: 43px;
+          width: 100%;
+          height: 104px;
+          border: 1px solid #b4c2d2;
+          border-radius: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: #70707080;
+          font-size: 20px;
+          // > div {
+          //   margin-right: 5px;
+          // }
+          > :nth-child(2) {
+            text-align: center;
+          }
+        }
+
+        .button-container {
+          margin-top: 20px;
+          display: flex;
+          justify-content: flex-end;
+          align-items: center;
+          height: auto;
+          .button-wrapper {
+            width: 260px;
+            height: 40px;
+            border: 0px solid #70707080;
+            border-radius: 32px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: 20px;
+            > * {
+              width: 100%;
+              height: 100%;
+              border-radius: 32px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .portfolio-tab-input-section {
+    justify-content: center;
+  }
+}
+
+.grid-view-wrapper {
+  margin: 0 auto;
+  width: 1600px;
+  flex: 1;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.inVisible {
+  visibility: hidden !important;
+  height: 150px !important;
+  svg {
+    display: none !important;
+  }
+}
+
+.tabs-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-wrapper {
+  background-color: #194174;
+  width: 100%;
+  min-width: 1600px;
+  // position: sticky;
+  bottom: 0px;
+  .footer {
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    div {
+      font-family: "Segoe UI";
+      color: #fff;
+    }
+  }
+}
+
+.close-dialog-button-wrapper {
+  margin-top: 20px;
+  margin-right: 40px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.form-dialog-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+  width: 100%;
+  height: 50px;
+  font-weight: bold;
+  color: #194174;
+  font-size: 25px;
+  > div {
+    width: 375px;
+    text-align: center;
+    border-bottom: 3px solid #d8a500;
+    padding-bottom: 13.5px;
+  }
+}
+
+.profile-dialog-input {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+  > div {
+    width: 300px;
+  }
+}
+
+.addition-parameter-form-content {
+  height: 100%;
+  .picker-input-session {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    .params-option-input-container {
+      display: flex;
+      .selector-wrapper {
+        width: 280px;
+        margin-right: 20px;
+      }
+      .init-input-wrapper {
+        width: 120px;
+        .init-input-field {
+          width: 100%;
+          height: 100%;
+          > * {
+            height: 100%;
+          }
+        }
+      }
+    }
+    .button-wrapper {
+      width: 50px;
+      margin-left: 10px;
+    }
+  }
+  .form-container {
+    margin-top: 10px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    .table-header-container {
+      width: 550px;
+      background-color: #d8a500;
+      color: #ffffff;
+      display: flex;
+      overflow: auto;
+      > div {
+        margin: 10px 0px;
+        text-align: center;
+      }
+      > div:nth-child(1) {
+        // width: 300px;
+        flex: 0.5;
+      }
+      > div:nth-child(2) {
+        // width: 150px;
+        flex: 0.3;
+      }
+      > div:nth-child(3) {
+        // width: 100px;
+        flex: 0.2;
+      }
+    }
+    .table-body-container {
+      width: 550px;
+      height: 100%;
+      overflow: auto;
+      .table-row-container {
+        display: flex;
+        width: 100%;
+        margin-top: 10px;
+        height: 50px;
+        > div {
+          text-align: center;
+          color: #707070;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          // >div {
+          //   width: 100%;
+          // }
+        }
+        // > div:nth-child(1) {
+        //   // width: 300px;
+        //   flex: 0.5;
+        // }
+        // > div:nth-child(2) {
+        //   // width: 150px;
+        //   flex: 0.3;
+        //   position: relative;
+        // }
+        // > div:nth-child(3) {
+        //   // width: 100px;
+        //   flex: 0.2;
+        // }
+        .additional-table-form-label {
+          flex: 0.5;
+        }
+        .additional-table-form-value {
+          display: flex;
+          flex-direction: column;
+          flex: 0.3;
+          position: relative;
+        }
+        .additional-table-form-delete-btn {
+          flex: 0.2;
+        }
+        .timestamp-input-field {
+          display: flex;
+          flex-direction: column;
+          flex: 0.3;
+          position: relative;
+          padding-bottom: 10px;
+        }
+        .categorical-input-field {
+          display: flex;
+          flex-direction: column;
+          flex: 0.3;
+          position: relative;
+          overflow: hidden;
+          padding-bottom: 20px;
+        }
+      }
+      div.table-row-container:not(:last-child) {
+        border-bottom: 1px solid #eeeeee;
+      }
+    }
+    // .input-container {
+    //   margin-top: 30px;
+    //   padding: 0px 50px;
+    //   height: 40%;
+    //   .input-title {
+    //     color: #194174;
+    //     font-size: 17px;
+    //     font-weight: bold;
+    //     padding-left: 15px;
+    //   }
+    //   .input-field {
+    //     margin-top: 15px;
+    //     > * {
+    //       width: 100%;
+    //     }
+    //     .switch-container {
+    //       padding-left: 15px;
+    //     }
+    //   }
+    //   .binary-input-field {
+    //     padding-left: 15px;
+    //   }
+    // }
+  }
+}
+
+.client-config-settings-form-content {
+  height: 100%;
+  .form-container {
+    height: 280px;
+    overflow: auto;
+    .input-container {
+      margin-top: 30px;
+      padding: 0px 50px;
+      height: 100%;
+      .CustomerId-picker-container {
+        width: 400px;
+        margin: 10px auto;
+      }
+      .field-table-container {
+        width: 400px;
+        margin: 10px auto;
+        > div {
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+}
+
+.input-field-form-wrapper {
+  display: flex;
+  width: 100%;
+  .input-column-1 {
+    width: 100%;
+    // margin-right: 50px;
+    // div > div {
+    //   width: 160px;
+    // }
+  }
+}
+
+.submit-button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+  position: absolute;
+  bottom: 20px;
+  .button-wrapper {
+    width: 150px;
+    height: 40px;
+  }
+}
+
+.warning {
+  color: red;
+  position: absolute;
+}
+
+.additional-form-warning {
+  color: red;
+  position: absolute;
+  pointer-events: none;
+  font-size: 15px;
+  right: 50px;
+  // bottom: 10px;
+}

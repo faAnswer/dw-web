@@ -1,0 +1,38 @@
+[
+  {
+    "exchCode": "KS",
+    "description": "LG ELECTRONICS INC",
+    "primaryRic": "066570.KS",
+    "currency": "KRW",
+    "lastTrade": 111200,
+    "countryCode": "KR",
+    "securityType": "Common Stock"
+  },
+  {
+    "exchCode": "HK",
+    "description": "TENCENT HOLDINGS LTD",
+    "primaryRic": "0700.HK",
+    "currency": "HKD",
+    "lastTrade": 343.6,
+    "countryCode": "HK",
+    "securityType": "Common Stock"
+  },
+  {
+    "exchCode": "TT",
+    "description": "TAIWAN SEMICONDUCTOR MANUFAC",
+    "primaryRic": "2330.TW",
+    "currency": "TWD",
+    "lastTrade": 511,
+    "countryCode": "TW",
+    "securityType": "Common Stock"
+  },
+  {
+    "exchCode": "JT",
+    "description": "SONY GROUP CORP",
+    "primaryRic": "6758.T",
+    "currency": "JPY",
+    "lastTrade": 11350,
+    "countryCode": "JP",
+    "securityType": "Common Stock"
+  }
+]

@@ -1,0 +1,876 @@
+[
+  {
+     "symbol":"0388.HK",
+     "days":[
+        {
+           "day1":{
+              "amClose":{
+                 "filteredMean":0.0
+              },
+              "amOpen":{
+                 "filteredMean":0.02005179315266532
+              },
+              "data":[
+                 {
+                    "filteredMean":0.035160860081544176
+                 },
+                 {
+                    "filteredMean":0.01680158117542341
+                 },
+                 {
+                    "filteredMean":0.013972647586536862
+                 },
+                 {
+                    "filteredMean":0.013325125338538543
+                 },
+                 {
+                    "filteredMean":0.012641922721010985
+                 },
+                 {
+                    "filteredMean":0.054320451406377784
+                 },
+                 {
+                    "filteredMean":0.04600447226793162
+                 },
+                 {
+                    "filteredMean":0.043871507154685706
+                 },
+                 {
+                    "filteredMean":0.036537745904880924
+                 },
+                 {
+                    "filteredMean":0.02794721107732649
+                 },
+                 {
+                    "filteredMean":0.027419243472788134
+                 },
+                 {
+                    "filteredMean":0.024897586770686826
+                 },
+                 {
+                    "filteredMean":0.02154534772225658
+                 },
+                 {
+                    "filteredMean":0.02143597329673267
+                 },
+                 {
+                    "filteredMean":0.0214642645644708
+                 },
+                 {
+                    "filteredMean":0.02612608006949664
+                 },
+                 {
+                    "filteredMean":0.021969354161767225
+                 },
+                 {
+                    "filteredMean":0.01669687113620872
+                 },
+                 {
+                    "filteredMean":0.00231743471764739
+                 },
+                 {
+                    "filteredMean":0.0024038778852149855
+                 },
+                 {
+                    "filteredMean":0.0024925024063479377
+                 },
+                 {
+                    "filteredMean":0.0028683315387990327
+                 },
+                 {
+                    "filteredMean":0.002791503911072323
+                 },
+                 {
+                    "filteredMean":0.010444094868132154
+                 },
+                 {
+                    "filteredMean":0.00641563302950184
+                 },
+                 {
+                    "filteredMean":0.006333401992164985
+                 },
+                 {
+                    "filteredMean":0.006559463755239692
+                 },
+                 {
+                    "filteredMean":0.006089513961175653
+                 },
+                 {
+                    "filteredMean":0.024469616845245817
+                 },
+                 {
+                    "filteredMean":0.025911076825415418
+                 },
+                 {
+                    "filteredMean":0.02354699455100473
+                 },
+                 {
+                    "filteredMean":0.02535219282269432
+                 },
+                 {
+                    "filteredMean":0.02680906536164971
+                 },
+                 {
+                    "filteredMean":0.021534821997034114
+                 },
+                 {
+                    "filteredMean":0.018379621275293277
+                 },
+                 {
+                    "filteredMean":0.01821978406402002
+                 },
+                 {
+                    "filteredMean":0.020851273117191323
+                 },
+                 {
+                    "filteredMean":0.01693231823098247
+                 },
+                 {
+                    "filteredMean":0.01893397419269495
+                 },
+                 {
+                    "filteredMean":0.02351519157158632
+                 },
+                 {
+                    "filteredMean":0.019930702573235478
+                 },
+                 {
+                    "filteredMean":0.020187798956500334
+                 },
+                 {
+                    "filteredMean":0.02558198319169239
+                 },
+                 {
+                    "filteredMean":0.03416172973363238
+                 },
+                 {
+                    "filteredMean":0.008567303637820631
+                 },
+                 {
+                    "filteredMean":0.008303827102274671
+                 },
+                 {
+                    "filteredMean":0.00799782205185017
+                 },
+                 {
+                    "filteredMean":0.007670295605429871
+                 },
+                 {
+                    "filteredMean":0.007906941099174667
+                 }
+              ],
+              "pmClose":{
+                 "filteredMean":0.04432986806695149
+              },
+              "pmOpen":{
+                 "filteredMean":0.0
+              },
+              "times":[
+                 "Fri, 07 Oct 2022 01:32:00 GMT",
+                 "Fri, 07 Oct 2022 01:34:00 GMT",
+                 "Fri, 07 Oct 2022 01:36:00 GMT",
+                 "Fri, 07 Oct 2022 01:38:00 GMT",
+                 "Fri, 07 Oct 2022 01:40:00 GMT",
+                 "Fri, 07 Oct 2022 01:50:00 GMT",
+                 "Fri, 07 Oct 2022 02:00:00 GMT",
+                 "Fri, 07 Oct 2022 02:10:00 GMT",
+                 "Fri, 07 Oct 2022 02:20:00 GMT",
+                 "Fri, 07 Oct 2022 02:30:00 GMT",
+                 "Fri, 07 Oct 2022 02:40:00 GMT",
+                 "Fri, 07 Oct 2022 02:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:00:00 GMT",
+                 "Fri, 07 Oct 2022 03:10:00 GMT",
+                 "Fri, 07 Oct 2022 03:20:00 GMT",
+                 "Fri, 07 Oct 2022 03:30:00 GMT",
+                 "Fri, 07 Oct 2022 03:40:00 GMT",
+                 "Fri, 07 Oct 2022 03:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:52:00 GMT",
+                 "Fri, 07 Oct 2022 03:54:00 GMT",
+                 "Fri, 07 Oct 2022 03:56:00 GMT",
+                 "Fri, 07 Oct 2022 03:58:00 GMT",
+                 "Fri, 07 Oct 2022 04:00:00 GMT",
+                 "Fri, 07 Oct 2022 05:02:00 GMT",
+                 "Fri, 07 Oct 2022 05:04:00 GMT",
+                 "Fri, 07 Oct 2022 05:06:00 GMT",
+                 "Fri, 07 Oct 2022 05:08:00 GMT",
+                 "Fri, 07 Oct 2022 05:10:00 GMT",
+                 "Fri, 07 Oct 2022 05:20:00 GMT",
+                 "Fri, 07 Oct 2022 05:30:00 GMT",
+                 "Fri, 07 Oct 2022 05:40:00 GMT",
+                 "Fri, 07 Oct 2022 05:50:00 GMT",
+                 "Fri, 07 Oct 2022 06:00:00 GMT",
+                 "Fri, 07 Oct 2022 06:10:00 GMT",
+                 "Fri, 07 Oct 2022 06:20:00 GMT",
+                 "Fri, 07 Oct 2022 06:30:00 GMT",
+                 "Fri, 07 Oct 2022 06:40:00 GMT",
+                 "Fri, 07 Oct 2022 06:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:00:00 GMT",
+                 "Fri, 07 Oct 2022 07:10:00 GMT",
+                 "Fri, 07 Oct 2022 07:20:00 GMT",
+                 "Fri, 07 Oct 2022 07:30:00 GMT",
+                 "Fri, 07 Oct 2022 07:40:00 GMT",
+                 "Fri, 07 Oct 2022 07:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:52:00 GMT",
+                 "Fri, 07 Oct 2022 07:54:00 GMT",
+                 "Fri, 07 Oct 2022 07:56:00 GMT",
+                 "Fri, 07 Oct 2022 07:58:00 GMT",
+                 "Fri, 07 Oct 2022 08:00:00 GMT"
+              ]
+           }
+        },
+        {
+           "day2":{
+              "amClose":{
+                 "filteredMean":0.0
+              },
+              "amOpen":{
+                 "filteredMean":0.02005179315266532
+              },
+              "data":[
+                 {
+                    "filteredMean":0.035160860081544176
+                 },
+                 {
+                    "filteredMean":0.01680158117542341
+                 },
+                 {
+                    "filteredMean":0.013972647586536862
+                 },
+                 {
+                    "filteredMean":0.013325125338538543
+                 },
+                 {
+                    "filteredMean":0.012641922721010985
+                 },
+                 {
+                    "filteredMean":0.054320451406377784
+                 },
+                 {
+                    "filteredMean":0.04600447226793162
+                 },
+                 {
+                    "filteredMean":0.043871507154685706
+                 },
+                 {
+                    "filteredMean":0.036537745904880924
+                 },
+                 {
+                    "filteredMean":0.02794721107732649
+                 },
+                 {
+                    "filteredMean":0.027419243472788134
+                 },
+                 {
+                    "filteredMean":0.024897586770686826
+                 },
+                 {
+                    "filteredMean":0.02154534772225658
+                 },
+                 {
+                    "filteredMean":0.02143597329673267
+                 },
+                 {
+                    "filteredMean":0.0214642645644708
+                 },
+                 {
+                    "filteredMean":0.02612608006949664
+                 },
+                 {
+                    "filteredMean":0.021969354161767225
+                 },
+                 {
+                    "filteredMean":0.01669687113620872
+                 },
+                 {
+                    "filteredMean":0.00231743471764739
+                 },
+                 {
+                    "filteredMean":0.0024038778852149855
+                 },
+                 {
+                    "filteredMean":0.0024925024063479377
+                 },
+                 {
+                    "filteredMean":0.0028683315387990327
+                 },
+                 {
+                    "filteredMean":0.002791503911072323
+                 },
+                 {
+                    "filteredMean":0.010444094868132154
+                 },
+                 {
+                    "filteredMean":0.00641563302950184
+                 },
+                 {
+                    "filteredMean":0.006333401992164985
+                 },
+                 {
+                    "filteredMean":0.006559463755239692
+                 },
+                 {
+                    "filteredMean":0.006089513961175653
+                 },
+                 {
+                    "filteredMean":0.024469616845245817
+                 },
+                 {
+                    "filteredMean":0.025911076825415418
+                 },
+                 {
+                    "filteredMean":0.02354699455100473
+                 },
+                 {
+                    "filteredMean":0.02535219282269432
+                 },
+                 {
+                    "filteredMean":0.02680906536164971
+                 },
+                 {
+                    "filteredMean":0.021534821997034114
+                 },
+                 {
+                    "filteredMean":0.018379621275293277
+                 },
+                 {
+                    "filteredMean":0.01821978406402002
+                 },
+                 {
+                    "filteredMean":0.020851273117191323
+                 },
+                 {
+                    "filteredMean":0.01693231823098247
+                 },
+                 {
+                    "filteredMean":0.01893397419269495
+                 },
+                 {
+                    "filteredMean":0.02351519157158632
+                 },
+                 {
+                    "filteredMean":0.019930702573235478
+                 },
+                 {
+                    "filteredMean":0.020187798956500334
+                 },
+                 {
+                    "filteredMean":0.02558198319169239
+                 },
+                 {
+                    "filteredMean":0.03416172973363238
+                 },
+                 {
+                    "filteredMean":0.008567303637820631
+                 },
+                 {
+                    "filteredMean":0.008303827102274671
+                 },
+                 {
+                    "filteredMean":0.00799782205185017
+                 },
+                 {
+                    "filteredMean":0.007670295605429871
+                 },
+                 {
+                    "filteredMean":0.007906941099174667
+                 }
+              ],
+              "pmClose":{
+                 "filteredMean":0.04432986806695149
+              },
+              "pmOpen":{
+                 "filteredMean":0.0
+              },
+              "times":[
+                 "Fri, 07 Oct 2022 01:32:00 GMT",
+                 "Fri, 07 Oct 2022 01:34:00 GMT",
+                 "Fri, 07 Oct 2022 01:36:00 GMT",
+                 "Fri, 07 Oct 2022 01:38:00 GMT",
+                 "Fri, 07 Oct 2022 01:40:00 GMT",
+                 "Fri, 07 Oct 2022 01:50:00 GMT",
+                 "Fri, 07 Oct 2022 02:00:00 GMT",
+                 "Fri, 07 Oct 2022 02:10:00 GMT",
+                 "Fri, 07 Oct 2022 02:20:00 GMT",
+                 "Fri, 07 Oct 2022 02:30:00 GMT",
+                 "Fri, 07 Oct 2022 02:40:00 GMT",
+                 "Fri, 07 Oct 2022 02:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:00:00 GMT",
+                 "Fri, 07 Oct 2022 03:10:00 GMT",
+                 "Fri, 07 Oct 2022 03:20:00 GMT",
+                 "Fri, 07 Oct 2022 03:30:00 GMT",
+                 "Fri, 07 Oct 2022 03:40:00 GMT",
+                 "Fri, 07 Oct 2022 03:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:52:00 GMT",
+                 "Fri, 07 Oct 2022 03:54:00 GMT",
+                 "Fri, 07 Oct 2022 03:56:00 GMT",
+                 "Fri, 07 Oct 2022 03:58:00 GMT",
+                 "Fri, 07 Oct 2022 04:00:00 GMT",
+                 "Fri, 07 Oct 2022 05:02:00 GMT",
+                 "Fri, 07 Oct 2022 05:04:00 GMT",
+                 "Fri, 07 Oct 2022 05:06:00 GMT",
+                 "Fri, 07 Oct 2022 05:08:00 GMT",
+                 "Fri, 07 Oct 2022 05:10:00 GMT",
+                 "Fri, 07 Oct 2022 05:20:00 GMT",
+                 "Fri, 07 Oct 2022 05:30:00 GMT",
+                 "Fri, 07 Oct 2022 05:40:00 GMT",
+                 "Fri, 07 Oct 2022 05:50:00 GMT",
+                 "Fri, 07 Oct 2022 06:00:00 GMT",
+                 "Fri, 07 Oct 2022 06:10:00 GMT",
+                 "Fri, 07 Oct 2022 06:20:00 GMT",
+                 "Fri, 07 Oct 2022 06:30:00 GMT",
+                 "Fri, 07 Oct 2022 06:40:00 GMT",
+                 "Fri, 07 Oct 2022 06:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:00:00 GMT",
+                 "Fri, 07 Oct 2022 07:10:00 GMT",
+                 "Fri, 07 Oct 2022 07:20:00 GMT",
+                 "Fri, 07 Oct 2022 07:30:00 GMT",
+                 "Fri, 07 Oct 2022 07:40:00 GMT",
+                 "Fri, 07 Oct 2022 07:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:52:00 GMT",
+                 "Fri, 07 Oct 2022 07:54:00 GMT",
+                 "Fri, 07 Oct 2022 07:56:00 GMT",
+                 "Fri, 07 Oct 2022 07:58:00 GMT",
+                 "Fri, 07 Oct 2022 08:00:00 GMT"
+              ]
+           }
+        }
+     ]
+  },
+  {
+     "symbol":"0700.HK",
+     "days":[
+        {
+           "day1":{
+              "amClose":{
+                 "filteredMean":0.0
+              },
+              "amOpen":{
+                 "filteredMean":0.02005179315266532
+              },
+              "data":[
+                 {
+                    "filteredMean":0.035160860081544176
+                 },
+                 {
+                    "filteredMean":0.01680158117542341
+                 },
+                 {
+                    "filteredMean":0.013972647586536862
+                 },
+                 {
+                    "filteredMean":0.013325125338538543
+                 },
+                 {
+                    "filteredMean":0.012641922721010985
+                 },
+                 {
+                    "filteredMean":0.054320451406377784
+                 },
+                 {
+                    "filteredMean":0.04600447226793162
+                 },
+                 {
+                    "filteredMean":0.043871507154685706
+                 },
+                 {
+                    "filteredMean":0.036537745904880924
+                 },
+                 {
+                    "filteredMean":0.02794721107732649
+                 },
+                 {
+                    "filteredMean":0.027419243472788134
+                 },
+                 {
+                    "filteredMean":0.024897586770686826
+                 },
+                 {
+                    "filteredMean":0.02154534772225658
+                 },
+                 {
+                    "filteredMean":0.02143597329673267
+                 },
+                 {
+                    "filteredMean":0.0214642645644708
+                 },
+                 {
+                    "filteredMean":0.02612608006949664
+                 },
+                 {
+                    "filteredMean":0.021969354161767225
+                 },
+                 {
+                    "filteredMean":0.01669687113620872
+                 },
+                 {
+                    "filteredMean":0.00231743471764739
+                 },
+                 {
+                    "filteredMean":0.0024038778852149855
+                 },
+                 {
+                    "filteredMean":0.0024925024063479377
+                 },
+                 {
+                    "filteredMean":0.0028683315387990327
+                 },
+                 {
+                    "filteredMean":0.002791503911072323
+                 },
+                 {
+                    "filteredMean":0.010444094868132154
+                 },
+                 {
+                    "filteredMean":0.00641563302950184
+                 },
+                 {
+                    "filteredMean":0.006333401992164985
+                 },
+                 {
+                    "filteredMean":0.006559463755239692
+                 },
+                 {
+                    "filteredMean":0.006089513961175653
+                 },
+                 {
+                    "filteredMean":0.024469616845245817
+                 },
+                 {
+                    "filteredMean":0.025911076825415418
+                 },
+                 {
+                    "filteredMean":0.02354699455100473
+                 },
+                 {
+                    "filteredMean":0.02535219282269432
+                 },
+                 {
+                    "filteredMean":0.02680906536164971
+                 },
+                 {
+                    "filteredMean":0.021534821997034114
+                 },
+                 {
+                    "filteredMean":0.018379621275293277
+                 },
+                 {
+                    "filteredMean":0.01821978406402002
+                 },
+                 {
+                    "filteredMean":0.020851273117191323
+                 },
+                 {
+                    "filteredMean":0.01693231823098247
+                 },
+                 {
+                    "filteredMean":0.01893397419269495
+                 },
+                 {
+                    "filteredMean":0.02351519157158632
+                 },
+                 {
+                    "filteredMean":0.019930702573235478
+                 },
+                 {
+                    "filteredMean":0.020187798956500334
+                 },
+                 {
+                    "filteredMean":0.02558198319169239
+                 },
+                 {
+                    "filteredMean":0.03416172973363238
+                 },
+                 {
+                    "filteredMean":0.008567303637820631
+                 },
+                 {
+                    "filteredMean":0.008303827102274671
+                 },
+                 {
+                    "filteredMean":0.00799782205185017
+                 },
+                 {
+                    "filteredMean":0.007670295605429871
+                 },
+                 {
+                    "filteredMean":0.007906941099174667
+                 }
+              ],
+              "pmClose":{
+                 "filteredMean":0.04432986806695149
+              },
+              "pmOpen":{
+                 "filteredMean":0.0
+              },
+              "times":[
+                 "Fri, 07 Oct 2022 01:32:00 GMT",
+                 "Fri, 07 Oct 2022 01:34:00 GMT",
+                 "Fri, 07 Oct 2022 01:36:00 GMT",
+                 "Fri, 07 Oct 2022 01:38:00 GMT",
+                 "Fri, 07 Oct 2022 01:40:00 GMT",
+                 "Fri, 07 Oct 2022 01:50:00 GMT",
+                 "Fri, 07 Oct 2022 02:00:00 GMT",
+                 "Fri, 07 Oct 2022 02:10:00 GMT",
+                 "Fri, 07 Oct 2022 02:20:00 GMT",
+                 "Fri, 07 Oct 2022 02:30:00 GMT",
+                 "Fri, 07 Oct 2022 02:40:00 GMT",
+                 "Fri, 07 Oct 2022 02:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:00:00 GMT",
+                 "Fri, 07 Oct 2022 03:10:00 GMT",
+                 "Fri, 07 Oct 2022 03:20:00 GMT",
+                 "Fri, 07 Oct 2022 03:30:00 GMT",
+                 "Fri, 07 Oct 2022 03:40:00 GMT",
+                 "Fri, 07 Oct 2022 03:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:52:00 GMT",
+                 "Fri, 07 Oct 2022 03:54:00 GMT",
+                 "Fri, 07 Oct 2022 03:56:00 GMT",
+                 "Fri, 07 Oct 2022 03:58:00 GMT",
+                 "Fri, 07 Oct 2022 04:00:00 GMT",
+                 "Fri, 07 Oct 2022 05:02:00 GMT",
+                 "Fri, 07 Oct 2022 05:04:00 GMT",
+                 "Fri, 07 Oct 2022 05:06:00 GMT",
+                 "Fri, 07 Oct 2022 05:08:00 GMT",
+                 "Fri, 07 Oct 2022 05:10:00 GMT",
+                 "Fri, 07 Oct 2022 05:20:00 GMT",
+                 "Fri, 07 Oct 2022 05:30:00 GMT",
+                 "Fri, 07 Oct 2022 05:40:00 GMT",
+                 "Fri, 07 Oct 2022 05:50:00 GMT",
+                 "Fri, 07 Oct 2022 06:00:00 GMT",
+                 "Fri, 07 Oct 2022 06:10:00 GMT",
+                 "Fri, 07 Oct 2022 06:20:00 GMT",
+                 "Fri, 07 Oct 2022 06:30:00 GMT",
+                 "Fri, 07 Oct 2022 06:40:00 GMT",
+                 "Fri, 07 Oct 2022 06:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:00:00 GMT",
+                 "Fri, 07 Oct 2022 07:10:00 GMT",
+                 "Fri, 07 Oct 2022 07:20:00 GMT",
+                 "Fri, 07 Oct 2022 07:30:00 GMT",
+                 "Fri, 07 Oct 2022 07:40:00 GMT",
+                 "Fri, 07 Oct 2022 07:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:52:00 GMT",
+                 "Fri, 07 Oct 2022 07:54:00 GMT",
+                 "Fri, 07 Oct 2022 07:56:00 GMT",
+                 "Fri, 07 Oct 2022 07:58:00 GMT",
+                 "Fri, 07 Oct 2022 08:00:00 GMT"
+              ]
+           }
+        },
+        {
+           "day2":{
+              "amClose":{
+                 "filteredMean":0.0
+              },
+              "amOpen":{
+                 "filteredMean":0.02005179315266532
+              },
+              "data":[
+                 {
+                    "filteredMean":0.035160860081544176
+                 },
+                 {
+                    "filteredMean":0.01680158117542341
+                 },
+                 {
+                    "filteredMean":0.013972647586536862
+                 },
+                 {
+                    "filteredMean":0.013325125338538543
+                 },
+                 {
+                    "filteredMean":0.012641922721010985
+                 },
+                 {
+                    "filteredMean":0.054320451406377784
+                 },
+                 {
+                    "filteredMean":0.04600447226793162
+                 },
+                 {
+                    "filteredMean":0.043871507154685706
+                 },
+                 {
+                    "filteredMean":0.036537745904880924
+                 },
+                 {
+                    "filteredMean":0.02794721107732649
+                 },
+                 {
+                    "filteredMean":0.027419243472788134
+                 },
+                 {
+                    "filteredMean":0.024897586770686826
+                 },
+                 {
+                    "filteredMean":0.02154534772225658
+                 },
+                 {
+                    "filteredMean":0.02143597329673267
+                 },
+                 {
+                    "filteredMean":0.0214642645644708
+                 },
+                 {
+                    "filteredMean":0.02612608006949664
+                 },
+                 {
+                    "filteredMean":0.021969354161767225
+                 },
+                 {
+                    "filteredMean":0.01669687113620872
+                 },
+                 {
+                    "filteredMean":0.00231743471764739
+                 },
+                 {
+                    "filteredMean":0.0024038778852149855
+                 },
+                 {
+                    "filteredMean":0.0024925024063479377
+                 },
+                 {
+                    "filteredMean":0.0028683315387990327
+                 },
+                 {
+                    "filteredMean":0.002791503911072323
+                 },
+                 {
+                    "filteredMean":0.010444094868132154
+                 },
+                 {
+                    "filteredMean":0.00641563302950184
+                 },
+                 {
+                    "filteredMean":0.006333401992164985
+                 },
+                 {
+                    "filteredMean":0.006559463755239692
+                 },
+                 {
+                    "filteredMean":0.006089513961175653
+                 },
+                 {
+                    "filteredMean":0.024469616845245817
+                 },
+                 {
+                    "filteredMean":0.025911076825415418
+                 },
+                 {
+                    "filteredMean":0.02354699455100473
+                 },
+                 {
+                    "filteredMean":0.02535219282269432
+                 },
+                 {
+                    "filteredMean":0.02680906536164971
+                 },
+                 {
+                    "filteredMean":0.021534821997034114
+                 },
+                 {
+                    "filteredMean":0.018379621275293277
+                 },
+                 {
+                    "filteredMean":0.01821978406402002
+                 },
+                 {
+                    "filteredMean":0.020851273117191323
+                 },
+                 {
+                    "filteredMean":0.01693231823098247
+                 },
+                 {
+                    "filteredMean":0.01893397419269495
+                 },
+                 {
+                    "filteredMean":0.02351519157158632
+                 },
+                 {
+                    "filteredMean":0.019930702573235478
+                 },
+                 {
+                    "filteredMean":0.020187798956500334
+                 },
+                 {
+                    "filteredMean":0.02558198319169239
+                 },
+                 {
+                    "filteredMean":0.03416172973363238
+                 },
+                 {
+                    "filteredMean":0.008567303637820631
+                 },
+                 {
+                    "filteredMean":0.008303827102274671
+                 },
+                 {
+                    "filteredMean":0.00799782205185017
+                 },
+                 {
+                    "filteredMean":0.007670295605429871
+                 },
+                 {
+                    "filteredMean":0.007906941099174667
+                 }
+              ],
+              "pmClose":{
+                 "filteredMean":0.04432986806695149
+              },
+              "pmOpen":{
+                 "filteredMean":0.0
+              },
+              "times":[
+                 "Fri, 07 Oct 2022 01:32:00 GMT",
+                 "Fri, 07 Oct 2022 01:34:00 GMT",
+                 "Fri, 07 Oct 2022 01:36:00 GMT",
+                 "Fri, 07 Oct 2022 01:38:00 GMT",
+                 "Fri, 07 Oct 2022 01:40:00 GMT",
+                 "Fri, 07 Oct 2022 01:50:00 GMT",
+                 "Fri, 07 Oct 2022 02:00:00 GMT",
+                 "Fri, 07 Oct 2022 02:10:00 GMT",
+                 "Fri, 07 Oct 2022 02:20:00 GMT",
+                 "Fri, 07 Oct 2022 02:30:00 GMT",
+                 "Fri, 07 Oct 2022 02:40:00 GMT",
+                 "Fri, 07 Oct 2022 02:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:00:00 GMT",
+                 "Fri, 07 Oct 2022 03:10:00 GMT",
+                 "Fri, 07 Oct 2022 03:20:00 GMT",
+                 "Fri, 07 Oct 2022 03:30:00 GMT",
+                 "Fri, 07 Oct 2022 03:40:00 GMT",
+                 "Fri, 07 Oct 2022 03:50:00 GMT",
+                 "Fri, 07 Oct 2022 03:52:00 GMT",
+                 "Fri, 07 Oct 2022 03:54:00 GMT",
+                 "Fri, 07 Oct 2022 03:56:00 GMT",
+                 "Fri, 07 Oct 2022 03:58:00 GMT",
+                 "Fri, 07 Oct 2022 04:00:00 GMT",
+                 "Fri, 07 Oct 2022 05:02:00 GMT",
+                 "Fri, 07 Oct 2022 05:04:00 GMT",
+                 "Fri, 07 Oct 2022 05:06:00 GMT",
+                 "Fri, 07 Oct 2022 05:08:00 GMT",
+                 "Fri, 07 Oct 2022 05:10:00 GMT",
+                 "Fri, 07 Oct 2022 05:20:00 GMT",
+                 "Fri, 07 Oct 2022 05:30:00 GMT",
+                 "Fri, 07 Oct 2022 05:40:00 GMT",
+                 "Fri, 07 Oct 2022 05:50:00 GMT",
+                 "Fri, 07 Oct 2022 06:00:00 GMT",
+                 "Fri, 07 Oct 2022 06:10:00 GMT",
+                 "Fri, 07 Oct 2022 06:20:00 GMT",
+                 "Fri, 07 Oct 2022 06:30:00 GMT",
+                 "Fri, 07 Oct 2022 06:40:00 GMT",
+                 "Fri, 07 Oct 2022 06:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:00:00 GMT",
+                 "Fri, 07 Oct 2022 07:10:00 GMT",
+                 "Fri, 07 Oct 2022 07:20:00 GMT",
+                 "Fri, 07 Oct 2022 07:30:00 GMT",
+                 "Fri, 07 Oct 2022 07:40:00 GMT",
+                 "Fri, 07 Oct 2022 07:50:00 GMT",
+                 "Fri, 07 Oct 2022 07:52:00 GMT",
+                 "Fri, 07 Oct 2022 07:54:00 GMT",
+                 "Fri, 07 Oct 2022 07:56:00 GMT",
+                 "Fri, 07 Oct 2022 07:58:00 GMT",
+                 "Fri, 07 Oct 2022 08:00:00 GMT"
+              ]
+           }
+        }
+     ]
+  }
+]
